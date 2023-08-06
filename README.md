@@ -8,3 +8,4 @@ Technologies: C++, OpenMP Parallelization, OpenMP threads, Vectorization
 
 ![paint](https://github.com/EvgeniyKrastev/paralelProgramming/assets/65820929/4a490330-54d6-499f-955a-d064491a1184)
 ![paint1](https://github.com/EvgeniyKrastev/paralelProgramming/assets/65820929/83872007-de74-4e7d-95a9-bd4aae233427)
+![paint2](https://github.com/EvgeniyKrastev/paralelProgramming/assets/65820929/59a7f544-eb78-4375-b63c-fe01e1d574ea)
