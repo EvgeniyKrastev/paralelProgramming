@@ -1,8 +1,7 @@
 # paralelProgramming
-Simple program for learning how to use openMP and vectorization to speed up a C++ code.
-In this case we use parallel collection of 16 elements from two arrays in third along with threading and parallelization
-with omp simd. For this case we multiply 2 matrix with 2048 elements
-horizontal and vertical and without the mods the result for my laptop is 50 seconds and after the mods is 7 seconds.
+Simple program for learning how to use OpenMP and vectorization to speed up a C++ code.
+In this case, we use parallel collection of 16 elements from two arrays in the third array, along with threading and parallelization with omp simd. For this scenario, we multiply 2 matrices with 2048 elements horizontally and vertically. Without the modifications, the result for my laptop is 50 seconds, and after the modifications, it is 7 seconds.
 
-to start the code you need to run it in linux and from the commandline you need to install gcc and g++
-then follow the steps that are in the matrix.cpp file
+To run the code, you need to execute it on Linux and install gcc and g++ from the command line. Then, follow the steps mentioned in the matrix.cpp file.
+
+Technologies: C++, OpenMP Parallelization, OpenMP threads, Vectorization
