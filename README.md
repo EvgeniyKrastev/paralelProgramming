@@ -5,5 +5,4 @@ In this case, we use parallel collection of 16 elements from two arrays in the t
 To run the code, you need to execute it on Linux and install gcc and g++ from the command line. Then, follow the steps mentioned in the matrix.cpp file.
 
 Technologies: C++, OpenMP Parallelization, OpenMP threads, Vectorization
-
 ![parrallel time](https://github.com/EvgeniyKrastev/paralelProgramming/assets/65820929/822d63eb-3c5a-4846-b318-861035adb267)
